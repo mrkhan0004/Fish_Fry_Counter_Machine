@@ -1,0 +1,6 @@
+train: /media/sahil-khan/New Volume/linux/Computer/RohitSir_FishProject/dataset/images/train/
+val: /media/sahil-khan/New Volume/linux/Computer/RohitSir_FishProject/dataset/images/val/
+
+nc: 16
+names: ["Big Head Carp", "Black Rohu", "Catla", "Climbing Perch", "Common Carp", "Glass Perchlet", "Grass Carp", "Knifefish", "Mrigal", "Mudfish", "Nile Tilapia", "Pangasius", "Rohu", "Silver Carp", "Snakehead", "Tilapia"]
+
