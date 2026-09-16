@@ -1,6 +1,36 @@
-# 🐟 Fish Fry Counter Machine
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Fish%20Fry%20Counter%20Machine&fontSize=38&fontAlignY=38&desc=YOLO11%20%7C%20ByteTrack%20%7C%20Computer%20Vision%20%7C%20Fish%20Counting&descAlignY=62&animation=fadeIn"/>
+</p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python"/>
+  <img src="https://img.shields.io/badge/YOLO11-Ultralytics-111F68?logo=yolo"/>
+  <img src="https://img.shields.io/badge/PyTorch-2.x-ee4c2c?logo=pytorch"/>
+  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?logo=opencv"/>
+  <img src="https://img.shields.io/badge/ByteTrack-Object%20Tracking-orange"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Object%20Detection-YOLO11n-success"/>
+  <img src="https://img.shields.io/badge/Fish%20Tracking-ByteTrack-blueviolet"/>
+  <img src="https://img.shields.io/badge/Classes-16-informational"/>
+  <img src="https://img.shields.io/badge/Task-Fish%20Counting-brightgreen"/>
+</p>
+
+<h1 align="center">🐟 Fish Fry Counter Machine</h1>
+
+<p align="center">
+  <b>Automatically detect, track, identify and count fish from images, videos and live camera streams.</b>
+</p>
+
+<p align="center">
+  <code>Dataset</code> → <code>LabelImg</code> → <code>YOLO11n</code> → <code>ByteTrack</code> → <code>Unique IDs</code> → <code>Fish Count</code>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+</p>
+
 
 ### AI-Powered Fish Detection, Tracking & Counting System
 
@@ -1973,10 +2003,18 @@ Fish Counting System
 ```
 
 ---
-
 <p align="center">
 
-### 🐟 From Images to Intelligent Fish Counting
+### 🐟 From Fish Images to Intelligent Counting
+
+<code>Collect</code> → <code>Annotate</code> → <code>Train</code> → <code>Detect</code> → <code>Track</code> → <code>Count</code> → <code>Deploy</code>
+
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
+
 
 **Collect → Annotate → Train → Detect → Track → Count → Deploy**
 
